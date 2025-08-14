@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Anjali 👋
+**CMU ECE (Class of 2027) — SWE/AI**  
+Interests: backend systems, NLP, computer vision, and cloud.
 
-<!--
-**anjali-a-p/anjali-a-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm building
+- **Political Content Analyzer** — NLP system that classifies political leaning using transformer models (BERT/RoBERTa) served via a Flask API, with a React front end for visualization.
+- **AI Image Generation & Background Replacement** — Python pipeline for subject extraction and photorealistic background generation (Stable Diffusion, ControlNet, inpainting).
 
-Here are some ideas to get you started:
+## Tech
+Python • Java • C • JavaScript • SQL • Flask • React • Spring Boot • TensorFlow • PyTorch • scikit-learn • Hugging Face • OpenCV • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- LinkedIn: https://www.linkedin.com/in/anjali-pillai-68197b344
+- Email: anjalip@andrew.cmu.edu
